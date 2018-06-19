@@ -1,0 +1,10 @@
+c:\users\alxsy\documents\visual studio 2012\Projects\WhatsAppGo\WhatsAppGo\bin\Debug\WhatsAppGo.exe.config
+c:\users\alxsy\documents\visual studio 2012\Projects\WhatsAppGo\WhatsAppGo\bin\Debug\WhatsAppGo.exe
+c:\users\alxsy\documents\visual studio 2012\Projects\WhatsAppGo\WhatsAppGo\bin\Debug\WhatsAppGo.pdb
+c:\users\alxsy\documents\visual studio 2012\Projects\WhatsAppGo\WhatsAppGo\obj\Debug\WhatsAppGo.csprojResolveAssemblyReference.cache
+c:\users\alxsy\documents\visual studio 2012\Projects\WhatsAppGo\WhatsAppGo\obj\Debug\WhatsAppGo.Properties.Resources.resources
+c:\users\alxsy\documents\visual studio 2012\Projects\WhatsAppGo\WhatsAppGo\obj\Debug\WhatsAppGo.csproj.GenerateResource.Cache
+c:\users\alxsy\documents\visual studio 2012\Projects\WhatsAppGo\WhatsAppGo\obj\Debug\WhatsAppGo.exe
+c:\users\alxsy\documents\visual studio 2012\Projects\WhatsAppGo\WhatsAppGo\obj\Debug\WhatsAppGo.pdb
+C:\Users\alxsy\documents\visual studio 2012\Projects\WhatsAppGo\WhatsAppGo\obj\Debug\WhatsAppGo.Form1.resources
+C:\Users\alxsy\documents\visual studio 2012\Projects\WhatsAppGo\WhatsAppGo\obj\Debug\WhatsAppGo.Add.resources
